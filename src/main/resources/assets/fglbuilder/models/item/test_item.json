@@ -1,0 +1,6 @@
+{
+    "parent":"fglbuilder:item/standard_item",
+    "textures": {
+        "layer0":"fglbuilder:items/test_item"
+    }
+}
